@@ -1,0 +1,15 @@
+C:\Users\Moham\NETTutorial\Tutorial\bin\Debug\net9.0\Tutorial.exe
+C:\Users\Moham\NETTutorial\Tutorial\bin\Debug\net9.0\Tutorial.deps.json
+C:\Users\Moham\NETTutorial\Tutorial\bin\Debug\net9.0\Tutorial.runtimeconfig.json
+C:\Users\Moham\NETTutorial\Tutorial\bin\Debug\net9.0\Tutorial.dll
+C:\Users\Moham\NETTutorial\Tutorial\bin\Debug\net9.0\Tutorial.pdb
+C:\Users\Moham\NETTutorial\Tutorial\obj\Debug\net9.0\Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moham\NETTutorial\Tutorial\obj\Debug\net9.0\Tutorial.AssemblyInfoInputs.cache
+C:\Users\Moham\NETTutorial\Tutorial\obj\Debug\net9.0\Tutorial.AssemblyInfo.cs
+C:\Users\Moham\NETTutorial\Tutorial\obj\Debug\net9.0\Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\Moham\NETTutorial\Tutorial\obj\Debug\net9.0\Tutorial.sourcelink.json
+C:\Users\Moham\NETTutorial\Tutorial\obj\Debug\net9.0\Tutorial.dll
+C:\Users\Moham\NETTutorial\Tutorial\obj\Debug\net9.0\refint\Tutorial.dll
+C:\Users\Moham\NETTutorial\Tutorial\obj\Debug\net9.0\Tutorial.pdb
+C:\Users\Moham\NETTutorial\Tutorial\obj\Debug\net9.0\Tutorial.genruntimeconfig.cache
+C:\Users\Moham\NETTutorial\Tutorial\obj\Debug\net9.0\ref\Tutorial.dll
